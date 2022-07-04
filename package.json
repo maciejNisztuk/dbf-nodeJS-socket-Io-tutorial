@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-websocket-tutorial",
+  "version": "1.0.0",
+  "description": "12:1 Nature of code tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejNisztuk/dbf-nodeJS-socket-Io-tutorial.git"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "author": "Maciej Nisztuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciejNisztuk/dbf-nodeJS-socket-Io-tutorial/issues"
+  },
+  "homepage": "https://github.com/maciejNisztuk/dbf-nodeJS-socket-Io-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
